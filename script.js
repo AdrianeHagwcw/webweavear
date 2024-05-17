@@ -55,7 +55,7 @@ let binary = "binary";
 let matrix = "matrix";
 
 let sentence1 = "In the realm of ones and zeros, where pixels dance and code unfurls, there resides a silent sorcerer, a " + webWeaver + " with dreams and pearls.";
-let sentence2 = "Rod, the " + alchemistOfTheBrowser + ", wields his keyboard like a wand, he conjures pages from thin air, painting landscapes with lines so fond.";
+let sentence2 = "Adriane, the " + alchemistOfTheBrowser + ", wields his keyboard like a wand, he conjures pages from thin air, painting landscapes with lines so fond.";
 let sentence3 = "Next, he dons his " + cssCloak + ", " + styling + " elements with flair and grace, " + ColorsBloomFontsSing + ", layouts " + evoke + ", A " + visual + " ballet in this digital space.";
 let sentence4 = "But wait, the " + magic + " deepens still, " + adriane + " summons" + javaScriptSpells + ", Interactivity blooms at his " + will + ", " + forms + " validate, " + AnimationsPropel + ".";
 let sentence5 = "Yet, " + bugs + " creep in like shadows dark, " + adriane + " dons his " + debuggingSpectacles + ", Chasing " + glitches + " through the " + codesArc + ", He " + tames + " wild loops and elusive " + variables + ".";
